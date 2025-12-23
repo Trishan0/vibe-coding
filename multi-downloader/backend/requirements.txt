@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+yt-dlp
+websockets
+ffmpeg-python
+python-multipart
